@@ -1,4 +1,4 @@
-### Hi, I'm Eduard Tomas 👋
+# Hi, I'm Eduard Tomas <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <p><em> Junior backend software
   
 [![Twitter Follow](https://img.shields.io/twitter/follow/edutomesco?label=Follow)](https://twitter.com/intent/follow?screen_name=edutomesco)
