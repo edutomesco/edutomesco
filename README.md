@@ -1,4 +1,8 @@
 ### Hi, I'm Eduard Tomas 👋
+<p><em> Junior backend software
+  
+[![Twitter Follow](https://img.shields.io/twitter/follow/edutomesco?label=Follow)](https://twitter.com/intent/follow?screen_name=edutomesco)
+[![Linkedin: edutomesco](https://img.shields.io/badge/-edutomesco-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edutomesco/)](https://www.linkedin.com/in/edutomesco/)
 
 
 
